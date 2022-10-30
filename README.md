@@ -1,10 +1,18 @@
 # Easter-Maxwell-01
 
+### Hi there 👋
+* 👂 My name is Easter Maxwell
+* ❤️ I'm a computer vision and AI engineer
+* 📫 How to reach me: maxwelleaster00@gmail.com
+* ⚡ Fun fact: I started learning to code in Dec 2021
+* 🤝 I’m looking to collaborate on Computer vision projects
+* 🌱 I’m currently learning C++ and (C, Python, Tensorflow, Pytorch, Opencv)
+
 <h2> 🚀 &nbsp;Tools I currently Work With</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/C++-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/Python-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/C-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C++/C++-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Python/Python-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original.svg" alt="php" width="45" height="45"/>
 </p>
 
 ![Snake animation](https://github.com/Easter-Maxwell-01/Easter-Maxwell-01/blob/output/github-contribution-grid-snake.svg)
