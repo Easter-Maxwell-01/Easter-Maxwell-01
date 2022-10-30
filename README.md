@@ -1,5 +1,5 @@
  <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=brown&height=90&section=footer&width="1000""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=brown&height=90&section=footer width="100" "/>
 </p>
 
 ### Easter-Maxwell-01 Profile Status
