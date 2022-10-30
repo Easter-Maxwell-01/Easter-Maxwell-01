@@ -24,6 +24,9 @@ currently_learning: ["C++, C, Python, Opencv, Pytorch, Tensorflow"]
 2022 Goals: ["Create 5 repos and learn at least 2 new Technologies."]
 hobbies: ["Gaming", "Drawing/Painting", "Football", "Reading biographies", "Coding"]
 
+```
+---
+
 <h2> 🚀 &nbsp;Tools I'm Currently working with / learning </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
