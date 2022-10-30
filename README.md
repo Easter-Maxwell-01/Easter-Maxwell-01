@@ -1,12 +1,27 @@
-# Easter-Maxwell-01
+# All Information about me!
 
-### Hi there 👋
-* 👂 My name is Easter Maxwell
-* ❤️ I'm a computer vision and AI engineer
-* 📫 How to reach me: maxwelleaster00@gmail.com
-* ⚡ Fun fact: I started learning to code in Dec 2021
-* 🤝 I’m looking to collaborate on Computer vision projects
-* 🌱 I’m currently learning C++ and (C, Python, Tensorflow, Pytorch, Opencv)
+name: Easter Maxwell
+located_in: Delta state, Nigeria
+current_job: currently unemployed
+
+education:
+  [
+    "Self-Taught Computer Programmer and Computer Vision Engineer",
+    "Master's in Electrical and Computer Engineering",
+    "Bachelor's in Electronics and Communication",
+  ]
+
+field_of_interests:
+  [
+    "Computer Vision",
+    "Robotics and ML",
+    "Artificial Intelligence",
+    "Operating System Development",
+  ]
+  
+currently_learning: ["C++, C, Python, Opencv, Pytorch, Tensorflow"]
+2022 Goals: ["Create 5 repos and learn at least 2 new Technologies."]
+hobbies: ["Gaming", "Drawing/Painting", "Football", "Reading biographies", "Coding"]
 
 <h2> 🚀 &nbsp;Tools I'm Currently working with / learning </h2>
 <p align="left">
