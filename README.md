@@ -19,7 +19,8 @@ field_of_interests:
     "Artificial Intelligence",
     "Operating System Development",
   ]
-  
+ 
+Mentor(s) : [Gary Kildall, Terry Davis]
 currently_learning: ["C++, C, Python, Opencv, Pytorch, Tensorflow"]
 2022 Goals: ["Create 5 repos and learn at least 2 new Technologies."]
 hobbies: ["Gaming", "Drawing/Painting", "Football", "Reading biographies", "Coding"]
