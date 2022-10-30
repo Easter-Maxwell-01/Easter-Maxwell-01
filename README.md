@@ -1,7 +1,7 @@
  
-## Easter-Maxwell-01 Profile Status
+### Easter-Maxwell-01 Profile Status
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=brown&height=90&section=footer"/>
 </p>
 
 ```yaml
