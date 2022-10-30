@@ -9,3 +9,4 @@ Hello!, My name is Easter Maxwell and I'm an upcoming computer vision and  AI en
  Tools I'm currently learning : C++, python, Opencv, Pytorch, Tensorflow, basic C
  Field of Expertise : Computer programming, Computer vision and Artificial Intelligence
  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
