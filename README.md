@@ -41,9 +41,9 @@ hobbies: ["Gaming", "Drawing/Painting", "Football", "Reading biographies", "Codi
 </p>
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/thepiyushmalhotra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thepiyushmalhotra&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepiyushmalhotra&theme=noctis_minimus&layout=compact" />
+<a href="https://github.com/Easter-Maxwell-01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Easter-Maxwell-01&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01&theme=noctis_minimus&layout=compact" />
 </a>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
