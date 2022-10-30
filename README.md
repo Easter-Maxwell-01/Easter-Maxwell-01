@@ -48,5 +48,3 @@ hobbies: ["Gaming", "Drawing/Painting", "Football", "Reading biographies", "Codi
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Easter-Maxwell-01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
