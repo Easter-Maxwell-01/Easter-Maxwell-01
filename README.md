@@ -1,4 +1,4 @@
-# All Information about me!
+# Easter-Maxwell-01 Profile Status
 
 ```yaml
 name: Easter Maxwell
