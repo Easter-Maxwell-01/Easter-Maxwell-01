@@ -8,6 +8,10 @@
 * 🤝 I’m looking to collaborate on Computer vision projects
 * 🌱 I’m currently learning C++ and (C, Python, Tensorflow, Pytorch, Opencv)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <h2> 🚀 &nbsp;Tools I currently Work With</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
