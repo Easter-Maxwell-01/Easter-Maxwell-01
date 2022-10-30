@@ -32,7 +32,7 @@ hobbies: ["Gaming", "Drawing/Painting", "Football", "Reading biographies", "Codi
 ```
 ---
 
-<h2> 🚀 &nbsp;Tools I'm Currently working with / learning </h2>
+<h5> 🚀 &nbsp;Tools I'm Currently working with / learning </h5>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="cplusplus" width="45" height="45"/>
@@ -40,7 +40,7 @@ hobbies: ["Gaming", "Drawing/Painting", "Football", "Reading biographies", "Codi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/>
 </p>
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
+<h5> 📈 &nbsp;My GitHub History!</h5>
 <a href="https://github.com/Easter-Maxwell-01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Easter-Maxwell-01&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01&theme=noctis_minimus&layout=compact" />
@@ -49,5 +49,5 @@ hobbies: ["Gaming", "Drawing/Painting", "Football", "Reading biographies", "Codi
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
