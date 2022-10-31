@@ -24,6 +24,7 @@ field_of_interests:
     "Operating System Development",
   ]
  
+Current Age : 16yrs old
 Mentor(s) : [Gary Kildall, Terry Davis]
 currently_learning: ["C++, C, Python, Opencv, Pytorch, Tensorflow"]
 2022 Goals: ["Create 5 repos and learn at least 2 new Technologies."]
