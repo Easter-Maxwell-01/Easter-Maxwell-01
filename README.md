@@ -23,17 +23,13 @@ field_of_interests:
     "Neural Networks and Natural Language Processing"
   ]
  
-Current Age : 16yrs old
-
-Mentor(s) : [Gary Kildall, Terry Davis]
-
-currently_learning: ["C++, C, Python, Opencv, Pytorch, Tensorflow"]
-
-2022 Goals: ["Create 5 repos and learn at least 2 new Technologies."]
-
-hobbies: ["Gaming", "Drawing/Painting", "Football", "Reading biographies", "Coding"]
-
-```
+more_info:
+  [
+     "Current Age : 16yrs old"
+     "Mentor : Gary Kildall, Terry Davis",
+     "Currently learning : C++, Python, Opencv, AI subjects"
+     "Hobbies : Coding, Drawing/Painting, Reading biographies",
+  ]
 ---
 
 <h4> 🚀 &nbsp;Tools I'm Currently working with / learning </h4>
