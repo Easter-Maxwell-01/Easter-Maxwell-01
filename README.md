@@ -11,9 +11,7 @@ current_job: currently unemployed
 
 education:
   [
-    "Self-Taught Computer Programmer and Computer Vision Engineer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Self-Taught Computer Programmer and Computer Vision Engineer"
   ]
 
 field_of_interests:
