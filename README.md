@@ -17,15 +17,20 @@ education:
 field_of_interests:
   [
     "Computer Vision",
-    "Robotics and ML",
+    "Machine Learning",
     "Artificial Intelligence",
     "Operating System Development",
+    "Neural Networks and Natural Language Processing"
   ]
  
 Current Age : 16yrs old
+
 Mentor(s) : [Gary Kildall, Terry Davis]
+
 currently_learning: ["C++, C, Python, Opencv, Pytorch, Tensorflow"]
+
 2022 Goals: ["Create 5 repos and learn at least 2 new Technologies."]
+
 hobbies: ["Gaming", "Drawing/Painting", "Football", "Reading biographies", "Coding"]
 
 ```
