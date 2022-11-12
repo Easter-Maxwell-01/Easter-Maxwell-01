@@ -36,7 +36,7 @@ more_info:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="cplusplus" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/>
-</p> ![](https://komarev.com/ghpvc/?username=your-github-Easter-Maxwell-01&label=PROFILE+VIEWS)
+</p> ![](https://komarev.com/ghpvc/?username=Easter-Maxwell-01&label=PROFILE+VIEWS)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01&layout=compact&theme=dark)](https://github.com/Easter-Maxwell-01/github-readme-stats)
 
