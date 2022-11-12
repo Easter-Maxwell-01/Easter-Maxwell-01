@@ -40,7 +40,7 @@ more_info:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01&layout=compact)](https://github.com/Easter-Maxwell-01/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Easter-Maxwell-01)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Easter-Maxwell-01&theme=dark)](https://git.io/streak-stats)
 
 <a href="https://github.com/Easter-Maxwell-01/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=Easter-Maxwell-01" />
