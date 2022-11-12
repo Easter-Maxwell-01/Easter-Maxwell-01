@@ -38,9 +38,7 @@ more_info:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01&layout=compact)](https://github.com/Easter-Maxwell-01/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Easter-Maxwell-01&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01&layout=compact&theme=dark)](https://github.com/Easter-Maxwell-01/github-readme-stats)
 
 <h3> 📈 &nbsp;My GitHub History!</h3>
 <a href="https://github.com/Easter-Maxwell-01">
@@ -49,13 +47,15 @@ more_info:
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Easter-Maxwell-01&theme=dark)](https://git.io/streak-stats)
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=90&section=footer"/>
 </p>
 
 <a href="https://github.com/Easter-Maxwell-01/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=Easter-Maxwell-01" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=Easter-Maxwell-01&theme=dark" />
 </a>
 <a href="https://github.com/Easter-Maxwell-01/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=CONTAINER" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=CONTAINER&theme=dark" />
 </a>
