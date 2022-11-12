@@ -40,6 +40,8 @@ more_info:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01&layout=compact)](https://github.com/Easter-Maxwell-01/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Easter-Maxwell-01)](https://git.io/streak-stats)
+
 <h3> 📈 &nbsp;My GitHub History!</h3>
 <a href="https://github.com/Easter-Maxwell-01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Easter-Maxwell-01&theme=radical&show_icons=true"/>
