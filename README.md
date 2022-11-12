@@ -38,7 +38,7 @@ more_info:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/>
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Easter-Maxwell-01)](https://github.com/Easter-Maxwell-01/github-readme-stats)
+[![Easter-Maxwell-01 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Easter-Maxwell-01)](https://github.com/Easter-Maxwell-01/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01&layout=compact)](https://github.com/Easter-Maxwell-01/github-readme-stats)
 
