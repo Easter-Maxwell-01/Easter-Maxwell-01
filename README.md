@@ -44,6 +44,8 @@ more_info:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01&theme=noctis_minimus&layout=compact"/>
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01)](https://github.com/Easter-Maxwell-01/github-readme-stats)
+
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left">
