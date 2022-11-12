@@ -43,14 +43,14 @@ more_info:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Easter-Maxwell-01&theme=dark)](https://git.io/streak-stats)
 
-<a href="https://github.com/Easter-Maxwell-01/github-readme-stats">
+
+<a href="https://github.com/Easter-Maxwell-01/Easter-Maxwell-01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=Easter-Maxwell-01&theme=dark" />
 </a>
-<a href="https://github.com/Easter-Maxwell-01/convoychat">
+<a href="https://github.com/Easter-Maxwell-01/CONTAINER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=CONTAINER&theme=dark" />
 </a>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=90&section=footer"/>
