@@ -32,8 +32,6 @@ more_info:
 ```
 ---
 
-![](https://komarev.com/ghpvc/?username=Easter-Maxwell-01&label=PROFILE+VIEWS)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01&layout=compact&theme=dark)](https://github.com/Easter-Maxwell-01/github-readme-stats)
 
 <h3> 📈 &nbsp;My GitHub History!</h3>
