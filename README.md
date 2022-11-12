@@ -11,23 +11,20 @@ current_job: currently unemployed
 
 education:
   [
-    "Self-Taught Computer Programmer and Computer Vision Engineer"
+    "Self-Taught Computer Programmer"
   ]
 
 field_of_interests:
   [
-    "Computer Vision",
-    "Machine Learning",
-    "Artificial Intelligence",
-    "Operating System Development",
-    "Neural Networks and Natural Language Processing"
+     "Computer Vision", 
+     "Machine Learning"
   ]
  
 more_info:
   [
      "Current Age : 16yrs old"
-     "Mentor : Gary Kildall, Terry Davis",
-     "Currently learning : C++, Python, Opencv, AI subjects"
+     "Mentor : Gary Kildall, Terry Andrew Davis",
+     "Currently learning : C++, Python, Opencv, AI Topics"
      "Hobbies : Coding, Drawing/Painting, Reading biographies"
   ]
   
