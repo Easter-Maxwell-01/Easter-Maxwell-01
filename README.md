@@ -45,13 +45,7 @@ more_info:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Easter-Maxwell-01&theme=radical&show_icons=true"/>
 </a>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Easter-Maxwell-01&theme=dark)](https://git.io/streak-stats)
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=90&section=footer"/>
-</p>
 
 <a href="https://github.com/Easter-Maxwell-01/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=Easter-Maxwell-01&theme=dark" />
@@ -59,3 +53,9 @@ more_info:
 <a href="https://github.com/Easter-Maxwell-01/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=CONTAINER&theme=dark" />
 </a>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=90&section=footer"/>
+</p>
