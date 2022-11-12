@@ -23,6 +23,7 @@ field_of_interests:
 more_info:
   [
      "Current Age : 16yrs old"
+     "Tool I currently use : C++"
      "Mentor : Gary Kildall, Terry Andrew Davis",
      "Currently learning : C++, Python, Opencv, AI Topics"
      "Hobbies : Coding, Drawing/Painting, Reading biographies"
@@ -30,13 +31,6 @@ more_info:
   
 ```
 ---
-
-<h4> 🚀 &nbsp;Tools I'm Currently working with / learning </h4>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="cplusplus" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/>
-</p> 
 
 ![](https://komarev.com/ghpvc/?username=Easter-Maxwell-01&label=PROFILE+VIEWS)
 
