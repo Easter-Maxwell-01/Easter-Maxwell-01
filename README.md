@@ -50,3 +50,10 @@ more_info:
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=90&section=footer"/>
 </p>
+
+<a href="https://github.com/Easter-Maxwell-01/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=Easter-Maxwell-01" />
+</a>
+<a href="https://github.com/Easter-Maxwell-01/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=CONTAINER" />
+</a>
