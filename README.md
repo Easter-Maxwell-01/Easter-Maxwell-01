@@ -42,7 +42,7 @@ more_info:
 
 <h3> 📈 &nbsp;My GitHub History!</h3>
 <a href="https://github.com/Easter-Maxwell-01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Easter-Maxwell-01&theme=noctis_minimus&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Easter-Maxwell-01&theme=radical&show_icons=true"/>
 </a>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
