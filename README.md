@@ -16,7 +16,8 @@ education:
 
 field_of_interests:
   [
-     "cryptocurrencies"
+     "advanced pet projects",
+     "low level programming", 
   ]
  
 more_info:
