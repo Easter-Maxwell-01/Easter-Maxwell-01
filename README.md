@@ -16,8 +16,7 @@ education:
 
 field_of_interests:
   [
-     "Computer Vision", 
-     "Machine Learning"
+     "cryptocurrencies"
   ]
  
 more_info:
