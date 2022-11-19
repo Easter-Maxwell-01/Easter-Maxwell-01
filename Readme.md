@@ -32,3 +32,11 @@ more_info:
 ```
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01&layout=compact&theme=radical)](https://github.com/Easter-Maxwell-01/github-readme-stats)
+
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=dark&height=90&section=footer"/>
+</p>
+
+
