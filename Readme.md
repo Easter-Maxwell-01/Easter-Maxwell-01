@@ -39,8 +39,7 @@ more_info:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Easter-Maxwell-01&theme=radical&show_icons=true"/>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Easter-Maxwell-01&theme=bear&border_radius=5)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Easter-Maxwell-01&theme=radical&border_radius=5)](https://git.io/streak-stats)
 
 <a href="https://github.com/Easter-Maxwell-01/Easter-Maxwell-01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=CONTAINER&theme=dark" />
