@@ -43,10 +43,10 @@ more_info:
 
 
 <a href="https://github.com/Easter-Maxwell-01/Easter-Maxwell-01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=Easter-Maxwell-01&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=CONTAINER&theme=dark" />
 </a>
 <a href="https://github.com/Easter-Maxwell-01/CONTAINER">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=CONTAINER&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=Easter-Maxwell-01&theme=dark" />
 </a>
 
 
