@@ -32,24 +32,3 @@ more_info:
 ```
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01&layout=compact&theme=radical)](https://github.com/Easter-Maxwell-01/github-readme-stats)
-
-<h3> 📈 &nbsp;My GitHub History!</h3>
-
-[![Easter Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Easter-Maxwell-01)](https://github.com/Easter-Maxwell/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Easter-Maxwell-01&theme=radical&border_radius=5)](https://git.io/streak-stats)
-
-<a href="https://github.com/Easter-Maxwell-01/Easter-Maxwell-01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=CONTAINER&theme=radical" />
-</a>
-<a href="https://github.com/Easter-Maxwell-01/CONTAINER">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=Easter-Maxwell-01&theme=radical" />
-</a>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&theme=radical&repo=github-readme-stats)](https://github.com/Easter-Maxwell-01/CONTAINER)
-
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dark&height=90&section=footer"/>
-</p>
