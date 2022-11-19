@@ -32,7 +32,7 @@ more_info:
 ```
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01&layout=compact&theme=dark)](https://github.com/Easter-Maxwell-01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01&layout=compact&theme=radical)](https://github.com/Easter-Maxwell-01/github-readme-stats)
 
 <h3> 📈 &nbsp;My GitHub History!</h3>
 <a href="https://github.com/Easter-Maxwell-01">
@@ -42,10 +42,10 @@ more_info:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Easter-Maxwell-01&theme=radical&border_radius=5)](https://git.io/streak-stats)
 
 <a href="https://github.com/Easter-Maxwell-01/Easter-Maxwell-01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=CONTAINER&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=CONTAINER&theme=radical" />
 </a>
 <a href="https://github.com/Easter-Maxwell-01/CONTAINER">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=Easter-Maxwell-01&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=Easter-Maxwell-01&theme=radical" />
 </a>
 
 
