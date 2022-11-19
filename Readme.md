@@ -35,9 +35,6 @@ more_info:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Easter-Maxwell-01&layout=compact&theme=radical)](https://github.com/Easter-Maxwell-01/github-readme-stats)
 
 <h3> 📈 &nbsp;My GitHub History!</h3>
-<a href="https://github.com/Easter-Maxwell-01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Easter-Maxwell-01&theme=radical&show_icons=true"/>
-</a>
 
 [![Easter Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Easter-Maxwell-01)](https://github.com/Easter-Maxwell/github-readme-stats)
 
@@ -52,5 +49,5 @@ more_info:
 
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=90&section=footer"/>
 </p>
