@@ -47,6 +47,8 @@ more_info:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&repo=Easter-Maxwell-01&theme=radical" />
 </a>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Easter-Maxwell-01&theme=radical&repo=github-readme-stats)](https://github.com/Easter-Maxwell-01/github-readme-stats)
+
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=dark&height=90&section=footer"/>
