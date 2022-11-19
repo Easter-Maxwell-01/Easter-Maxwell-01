@@ -49,5 +49,5 @@ more_info:
 
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=darcula&height=90&section=footer"/>
 </p>
