@@ -24,8 +24,7 @@ more_info:
   [
      "Current Age : 16yrs old"
      "Tool I currently use : C++"
-     "Mentor : Gary Kildall, Terry Andrew Davis",
-     "Currently learning : C++, Python, Opencv, AI Topics"
+     "Mentors : Gary Kildall, Terry Andrew Davis",
      "Hobbies : Coding, Drawing/Painting, Reading biographies"
   ]
   
