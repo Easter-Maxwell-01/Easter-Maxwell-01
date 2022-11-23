@@ -23,8 +23,8 @@ field_of_interests:
 more_info:
   [
      "Current Age : 16yrs old",
+     "Most used programming language : Python",
      "Mentors : Gary Kildall, Terry Andrew Davis",
-      "Most used programming language : Python",
      "Hobbies : Coding, Drawing/Painting, Reading biographies"
   ]
   
