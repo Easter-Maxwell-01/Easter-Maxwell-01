@@ -16,15 +16,15 @@ education:
 
 field_of_interests:
   [
-     "advanced pet projects",
-     "low level programming", 
+     "Low level programming",
+     "Advanced pet projects",
   ]
  
 more_info:
   [
      "Current Age : 16yrs old",
      "Mentors : Gary Kildall, Terry Andrew Davis",
-      "Most used programming language : C++, python",
+      "Most used programming language : Python",
      "Hobbies : Coding, Drawing/Painting, Reading biographies"
   ]
   
