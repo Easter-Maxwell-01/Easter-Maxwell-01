@@ -16,8 +16,8 @@ education:
 
 field_of_interests:
   [
+     "computer vision",
      "Low level programming",
-     "Advanced pet projects",
   ]
  
 more_info:
