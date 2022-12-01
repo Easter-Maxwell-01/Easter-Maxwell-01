@@ -9,24 +9,24 @@ name: Easter Maxwell
 located_in: Delta state, Nigeria
 current_job: currently unemployed
 
-education:
-  [
-    "Self-Taught Computer Programmer"
-  ]
-
 field_of_interests:
-  [
-     "computer vision",
-     "Low level programming",
-  ]
+[
+    "computer vision",
+    "Low level programming",
+]
+  
+education:
+[
+   "Self-Taught Computer Programmer"
+]
  
 more_info:
-  [
-     "Current Age : 16yrs old",
-     "Most used programming language : C/C++",
-     "Mentors : Gary Kildall, Terry Andrew Davis",
-     "Hobbies : Coding, Drawing/Painting, Reading biographies"
-  ]
+[
+    "Current Age : 16yrs old",
+    "Most used programming language : C/C++",
+    "Mentors : Gary Kildall, Terry Andrew Davis",
+    "Hobbies : Coding, Drawing/Painting, Reading biographies"
+]
   
 ```
 ---
