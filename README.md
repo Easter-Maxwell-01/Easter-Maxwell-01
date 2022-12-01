@@ -11,8 +11,8 @@ current_job: currently unemployed
 
 field_of_interests:
 [
-    "computer vision",
-    "Low level programming",
+   "computer vision",
+   "Low level programming",
 ]
   
 education:
@@ -22,10 +22,10 @@ education:
  
 more_info:
 [
-    "Current Age : 16yrs old",
-    "Most used programming language : C/C++",
-    "Mentors : Gary Kildall, Terry Andrew Davis",
-    "Hobbies : Coding, Drawing/Painting, Reading biographies"
+   "Current Age : 16yrs old",
+   "Most used programming language : C/C++",
+   "Mentors : Gary Kildall, Terry Andrew Davis",
+   "Hobbies : Coding, Drawing/Painting, Reading biographies"
 ]
   
 ```
