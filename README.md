@@ -8,6 +8,7 @@
 name: Easter Maxwell
 located_in: Delta state, Nigeria
 current_job: currently unemployed
+Email : maxwelleaster00@gmail.com
 
 field_of_interests:
 [
