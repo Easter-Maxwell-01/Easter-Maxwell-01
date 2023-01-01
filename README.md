@@ -24,8 +24,8 @@ education:
 more_info:
 [
    "Current Age : 16yrs old",
-   "Most used programming language : C/C++",
-   "Mentors : Gary Kildall, Terry Andrew Davis",
+   "Most used programming language : C++, Python",
+   "Mentors : Gary Kildall, Terry Andrew Davis, Bill Gates", 
    "Hobbies : Coding, Drawing/Painting, Reading biographies"
 ]
   
