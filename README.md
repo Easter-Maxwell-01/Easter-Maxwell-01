@@ -28,6 +28,14 @@ more_info:
    "Mentors : Gary Kildall, Terry Andrew Davis, Bill Gates", 
    "Hobbies : Coding, Drawing/Painting, Reading biographies"
 ]
+
+about_me:
+[
+   " I started learning to code fully around late 2022. I picked up
+     C++ because I admire programming languages that are very close
+     to the bare metal. Of course it's difficult, but nothing comes
+     easy. I aspire to become a really great computer vision engineer "
+]
   
 ```
 ---
