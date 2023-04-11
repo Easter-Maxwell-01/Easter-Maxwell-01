@@ -13,7 +13,7 @@ Email : maxwelleaster00@gmail.com
 field_of_interests:
 [
    "computer vision",
-   "Low level programming",
+   "Machine Learning",
 ]
   
 education:
