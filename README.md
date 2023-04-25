@@ -17,9 +17,11 @@ education:
    "self-taught web developer"
 ]
  
-more_info:
+Tools I use:
 [
-   Tools I use: Html, Css, Javascript, Github, Vscode, C++
+   Terminal apps: C++ and Python
+   Design plan: Microsoft Paint :)
+   Web development: Html, Css and Javascript
 ]
 
 about_me:
