@@ -6,37 +6,32 @@
 
 ```yaml
 name: Easter Maxwell
-located_in: Delta state, Nigeria
-current_job: currently unemployed
-Email : maxwelleaster00@gmail.com
+Twitter: MaxwellEaster00
+Instagram: maxwelleaster00
+Email: maxwelleaster00@gmail.com
 
 field_of_interests:
 [
-   "computer vision",
-   "Machine Learning",
+   Website development
 ]
   
 education:
 [
-   "Self-Taught Computer Programmer"
+   "self-taught web developer"
 ]
  
 more_info:
 [
-   "Current Age : 16yrs old",
-   "Most used programming language : C++, Python",
-   "Mentors : Gary Kildall, Terry Andrew Davis, Bill Gates", 
-   "Hobbies : Coding, Drawing/Painting, Reading biographies"
+   Tools I use: Html, Css, Javascript, Github, Vscode, C++
 ]
 
 about_me:
 [
    " 
-     I started learning to code fully around late 2022. I picked up
-     C++ because I admire programming languages that are very close
-     to the bare metal. Of course it's difficult, but nothing comes
-     easy. I aspire to become a really great computer vision engineer
-     in order to improve the state of surveillance systems in Africa
+       I started learning Web development mid 2023 because I find
+       serenity and beauty in developing applications for the web.
+       There is something so mesmerizing about watching a website
+       being built from the ground up into something eye-catching.
    "
 ]
   
