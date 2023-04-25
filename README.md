@@ -6,6 +6,7 @@
 
 ```yaml
 name: Easter Maxwell
+Email: maxwelleaster00@gmail.com
 
 field_of_interests:
 [
