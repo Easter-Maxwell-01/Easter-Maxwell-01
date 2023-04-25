@@ -6,9 +6,6 @@
 
 ```yaml
 name: Easter Maxwell
-Twitter: MaxwellEaster00
-Instagram: maxwelleaster00
-Email: maxwelleaster00@gmail.com
 
 field_of_interests:
 [
